@@ -1,0 +1,9 @@
+C:\Users\seeduc.NAVE0\Documents\Visual Studio 2012\Projects\bubbleSortScript\bubbleSortScript\bin\Debug\bubbleSortScript.exe.config
+C:\Users\seeduc.NAVE0\Documents\Visual Studio 2012\Projects\bubbleSortScript\bubbleSortScript\bin\Debug\bubbleSortScript.exe
+C:\Users\seeduc.NAVE0\Documents\Visual Studio 2012\Projects\bubbleSortScript\bubbleSortScript\bin\Debug\bubbleSortScript.pdb
+C:\Users\seeduc.NAVE0\Documents\Visual Studio 2012\Projects\bubbleSortScript\bubbleSortScript\obj\Debug\bubbleSortScript.csprojResolveAssemblyReference.cache
+C:\Users\seeduc.NAVE0\Documents\Visual Studio 2012\Projects\bubbleSortScript\bubbleSortScript\obj\Debug\bubbleSortScript.Properties.Resources.resources
+C:\Users\seeduc.NAVE0\Documents\Visual Studio 2012\Projects\bubbleSortScript\bubbleSortScript\obj\Debug\bubbleSortScript.csproj.GenerateResource.Cache
+C:\Users\seeduc.NAVE0\Documents\Visual Studio 2012\Projects\bubbleSortScript\bubbleSortScript\obj\Debug\bubbleSortScript.exe
+C:\Users\seeduc.NAVE0\Documents\Visual Studio 2012\Projects\bubbleSortScript\bubbleSortScript\obj\Debug\bubbleSortScript.pdb
+C:\Users\seeduc.NAVE0\Documents\Visual Studio 2012\Projects\bubbleSortScript\bubbleSortScript\obj\Debug\bubbleSortScript.Form1.resources

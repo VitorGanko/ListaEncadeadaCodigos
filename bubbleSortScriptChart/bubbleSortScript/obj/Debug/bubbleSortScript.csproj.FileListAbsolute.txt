@@ -1,0 +1,15 @@
+C:\Users\vitor.oliveira\Desktop\bubbleSortScriptChart\bubbleSortScript\bin\Debug\bubbleSortScript.exe.config
+C:\Users\vitor.oliveira\Desktop\bubbleSortScriptChart\bubbleSortScript\bin\Debug\bubbleSortScript.exe
+C:\Users\vitor.oliveira\Desktop\bubbleSortScriptChart\bubbleSortScript\bin\Debug\bubbleSortScript.pdb
+C:\Users\vitor.oliveira\Desktop\bubbleSortScriptChart\bubbleSortScript\obj\Debug\bubbleSortScript.csprojResolveAssemblyReference.cache
+C:\Users\vitor.oliveira\Desktop\bubbleSortScriptChart\bubbleSortScript\obj\Debug\bubbleSortScript.Form1.resources
+C:\Users\vitor.oliveira\Desktop\bubbleSortScriptChart\bubbleSortScript\obj\Debug\bubbleSortScript.Properties.Resources.resources
+C:\Users\vitor.oliveira\Desktop\bubbleSortScriptChart\bubbleSortScript\obj\Debug\bubbleSortScript.csproj.GenerateResource.Cache
+C:\Users\vitor.oliveira\Desktop\bubbleSortScriptChart\bubbleSortScript\obj\Debug\bubbleSortScript.exe
+C:\Users\vitor.oliveira\Desktop\bubbleSortScriptChart\bubbleSortScript\obj\Debug\bubbleSortScript.pdb
+C:\Users\vitor.oliveira\Desktop\projects\bubbleSortScriptChart\bubbleSortScript\bin\Debug\bubbleSortScript.exe.config
+C:\Users\vitor.oliveira\Desktop\projects\bubbleSortScriptChart\bubbleSortScript\obj\Debug\bubbleSortScript.exe
+C:\Users\vitor.oliveira\Desktop\projects\bubbleSortScriptChart\bubbleSortScript\obj\Debug\bubbleSortScript.pdb
+C:\Users\vitor.oliveira\Documents\GitHub\ListaEncadeadaCodigos\bubbleSortScriptChart\bubbleSortScript\bin\Debug\bubbleSortScript.exe.config
+C:\Users\vitor.oliveira\Documents\GitHub\ListaEncadeadaCodigos\bubbleSortScriptChart\bubbleSortScript\obj\Debug\bubbleSortScript.exe
+C:\Users\vitor.oliveira\Documents\GitHub\ListaEncadeadaCodigos\bubbleSortScriptChart\bubbleSortScript\obj\Debug\bubbleSortScript.pdb
